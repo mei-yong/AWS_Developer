@@ -5,4 +5,4 @@ CloudWatch Events
 CloudWatch Logs Metrics
 
 Used for monitoring and tracking cloud infrastructure usage
-
+Don't forget to setup the relevant agents inside the instances or components you want to monitor
