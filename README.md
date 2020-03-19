@@ -10,6 +10,8 @@ This repository contains all of my notes for day-to-day working with AWS
 * [Redshift](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Redshift)
 * [DocumentDB](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/DocumentDB)
 * [Neptune](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Neptune)
+* [Neptune](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Neptune)
+
 
 ### Compute & ETL
 * [EC2 - Elastic Compute Cloud](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/EC2)
