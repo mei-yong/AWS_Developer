@@ -10,7 +10,7 @@ This repository contains all of my notes for day-to-day working with AWS
 * [Redshift](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Redshift)
 * [DocumentDB](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/DocumentDB)
 * [Neptune](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Neptune)
-* [Neptune](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Neptune)
+* [ElastiCache](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/ElastiCache)
 
 
 ### Compute & ETL
@@ -34,3 +34,8 @@ This repository contains all of my notes for day-to-day working with AWS
 
 ### Header
 * [label](url)
+
+
+#### Database options
+Unmanaged <----------------------------------------------------------> Highly Managed
+           EC2     RDS     Redshift     Aurora Serverless     Athena
