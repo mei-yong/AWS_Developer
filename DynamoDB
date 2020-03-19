@@ -1,0 +1,7 @@
+DynamoDB
+
+NoSQL
+Supports document store model + key-value store
+No table size limit
+Fully managed
+Single digit millisecond latency
