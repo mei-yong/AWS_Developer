@@ -36,5 +36,5 @@ This repository contains all of my notes for day-to-day working with AWS
 
 
 #### Database options
-Unmanaged <----------------------------------------------------------> Highly Managed
+Unmanaged <----------------------------------------------------------> Highly Managed <br>
            EC2     RDS     Redshift     Aurora Serverless     Athena
