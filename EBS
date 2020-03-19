@@ -1,0 +1,8 @@
+EBS - Elastic Block Storage
+
+Block storage
+Each EBS piece can only be linked with 1 EC2 instance at a time
+
+[EC2]<--[EBS SSD boot/database]
+[EC2]<--[EBS HDD throughput]
+
