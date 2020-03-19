@@ -32,9 +32,10 @@ This repository contains all of my notes for day-to-day working with AWS
 
 ### Machine Learning
 * [Lex](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Lex)
+* [SageMaker](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/SageMaker)
 
 ### Header
-* [label](url)
+* [label](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/)
 
 
 #### Database options
