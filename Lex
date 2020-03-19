@@ -1,6 +1,6 @@
 Lex
 
-Create a chatbot serverless with no coding required
+Chatbot - serverless - no coding required
 
 Intent - the bot's goal
 Utterances - from user, invokes intent
