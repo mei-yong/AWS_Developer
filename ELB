@@ -1,0 +1,17 @@
+ELB - Elastic Load Balancer
+
+Distributes incoming traffic between different components
+
+egress --> [ELB] --> [EC2_1, EC2_2, container, microservice]
+
+App Load Balancer
+Request level
+HTTP + HTTPS
+
+Network Load Balancer
+Connection level
+IP protocols
+TCP
+
+Classic Load Balancer
+Both request + connection level
