@@ -25,13 +25,14 @@ This repository contains all of my notes for day-to-day working with AWS
 * [Direct_Connect](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Direct_Connect)
 * [Elastic_Beanstalk](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Elastic_Beanstalk)
 * [ELB - Elastic Load Balancer](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/ELB)
-* [Security](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Security)
 * [Pricing](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Pricing)
+* [Quicksight](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Quicksight)
+* [Security](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Security)
 * [SNS - Simple Notification Service](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/SNS)
 
 
 ### Machine Learning
-* [Lex](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Lex)
+* [Machine Learning APIs](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/ML-API)
 * [SageMaker](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/SageMaker)
 
 ### Header
