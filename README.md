@@ -12,10 +12,14 @@ This repository contains all of my notes for day-to-day working with AWS
 * [Neptune](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Neptune)
 
 ### Compute & ETL
-* [label](url)
+* [EC2 - Elastic Compute Cloud](url)
 
-### Security & Networking
-* [label](url)
+### Other
+* [CloudFront](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/CloudFront)
+* [CLoudWatch](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/CLoudWatch)
+* [API_Gateway](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/API_Gateway)
+* [ELB - Elastic Load Balancer](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/ELB)
+* [Autoscaling](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Autoscaling)
 
 
 ### Header
