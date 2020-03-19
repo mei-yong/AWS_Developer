@@ -1,4 +1,6 @@
 Elastic_Beanstalk
 
-Give infrastructure as code and it manages deployment for you
+Deploy without managing infrastructure
+Provide YAML/JSON
+Beanstalk handles resource provisioning, load balancing, automatic scaling, monitoring
 
