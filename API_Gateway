@@ -1,0 +1,7 @@
+API_Gateway
+
+Helps with API building
+Includes GET, POST, etc
+
+If your app is linked globally via CloudFront don't forget to enable cross origin resource sharing (CORS)
+Because CloudFront returns responses from a different/global API endpoint which the app's VPC/subnet firewall won't recognise
