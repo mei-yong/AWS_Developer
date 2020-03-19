@@ -4,3 +4,9 @@ Object storage
 Regionally distributed
 Can be linked to many EC2 instances and the EC2 instances can be in different regions and different VPCs
 Can also be linked with on-prem systems
+
+[EC2 (VPC_1, region_1)]<-->[EFS]
+[EC2 (VPC_1, region_2)]<-->[EFS]
+[EC2 (VPC_2, region_2)]<-->[EFS]
+[On-prem]<-->[EFS]
+
