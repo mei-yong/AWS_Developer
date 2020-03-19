@@ -26,6 +26,8 @@ This repository contains all of my notes for day-to-day working with AWS
 * [SNS - Simple Notification Service](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/SNS)
 * [CloudFormation](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/CloudFormation)
 * [Elastic_Beanstalk](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Elastic_Beanstalk)
+* [Security](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Security)
+* [Pricing](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Pricing)
 
 ### Machine Learning
 * [Lex](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Lex)
