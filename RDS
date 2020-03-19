@@ -2,7 +2,9 @@ RDS - Relational Database Service
 
 Block storage
 MySQL, MSSQL, Oracle, PostGres
-AWS Aurora: AWS's MySQL-compatible db
+AWS Aurora: AWS's MySQL-compatible db but 5x faster than MySQL
+Backup retention =< 35 days
+Max 64TB
 
 Setup
 1) Backups
