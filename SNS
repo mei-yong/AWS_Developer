@@ -1,0 +1,6 @@
+SNS - Simple Notification Service
+
+Messaging system
+
+[Publisher]-->[Topic]-->[Message Filters]-->?
+
