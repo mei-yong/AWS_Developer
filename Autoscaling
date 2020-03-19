@@ -1,0 +1,13 @@
+Autoscaling
+
+There's a tab for it in the console
+
+Setup so that when there's more traffic, more EC2 instances are spun up and when less traffic, unused EC2 instances are removed
+1) Add your EC2 instance to the auto scaling group
+2) Set the group size (minimum 2 usually)
+3) Specify the VPC + subnets that the EC2 instance requires
+4) Enable receiving traffic from load balancer
+5) Set scaling + threshold specs
+
+In CloudWatch, enable link with autoscaling group
+
