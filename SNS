@@ -2,5 +2,5 @@ SNS - Simple Notification Service
 
 Messaging system
 
-[Publisher]-->[Topic]-->[Message Filters]-->?
+[Publisher]-->[Topic]-->[Message Filters]-->[Subscribers]
 
