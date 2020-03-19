@@ -1,4 +1,8 @@
 CloudFormation
 
 Infrastructure as code
-yaml files
+
+1) Create YAML or JSON files
+2) Store the file locally or in S3 bucket
+3) In the console, specify your stack specs
+4) CloudFormation provisions the resouces 
