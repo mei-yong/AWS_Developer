@@ -3,3 +3,7 @@ Lambda
 Serverless functions
 Supports Python, Java, node.js, Go, C#, Ruby, Powershell
 
+Triggered by AWS services or API Gateway
+Max execution time per request = 900 seconds
+Concurrent execution = 1000 parallel executions
+No maximum number of functions
