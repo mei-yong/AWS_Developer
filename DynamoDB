@@ -5,3 +5,5 @@ Supports document store model + key-value store
 No table size limit
 Fully managed
 Single digit millisecond latency
+Languages: .Net, ColdFusion, Erlang, Groovy, Java, JavaScript, Perl, PHP, Python, Ruby
+Access via RESTful HTTP API
