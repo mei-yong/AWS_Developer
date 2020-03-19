@@ -12,7 +12,8 @@ This repository contains all of my notes for day-to-day working with AWS
 * [Neptune](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Neptune)
 
 ### Compute & ETL
-* [EC2 - Elastic Compute Cloud](url)
+* [EC2 - Elastic Compute Cloud](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/EC2)
+* [Lambda](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Lambda)
 
 ### Other
 * [CloudFront](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/CloudFront)
@@ -20,7 +21,10 @@ This repository contains all of my notes for day-to-day working with AWS
 * [API_Gateway](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/API_Gateway)
 * [ELB - Elastic Load Balancer](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/ELB)
 * [Autoscaling](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Autoscaling)
+* [SNS - Simple Notification Service](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/SNS)
 
+### Machine Learning
+* [Lex](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Lex)
 
 ### Header
 * [label](url)
