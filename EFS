@@ -1,0 +1,6 @@
+EFS - Elastic File System
+
+Object storage
+Regionally distributed
+Can be linked to many EC2 instances and the EC2 instances can be in different regions and different VPCs
+Can also be linked with on-prem systems
