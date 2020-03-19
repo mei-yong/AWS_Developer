@@ -22,11 +22,13 @@ This repository contains all of my notes for day-to-day working with AWS
 * [CloudFormation](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/CloudFormation)
 * [CloudFront](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/CloudFront)
 * [CloudWatch](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/CloudWatch)
+* [Direct_Connect](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Direct_Connect)
 * [Elastic_Beanstalk](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Elastic_Beanstalk)
 * [ELB - Elastic Load Balancer](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/ELB)
 * [Security](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Security)
 * [Pricing](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Pricing)
 * [SNS - Simple Notification Service](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/SNS)
+
 
 ### Machine Learning
 * [Lex](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Lex)
