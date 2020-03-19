@@ -1,3 +1,11 @@
 Redshift
 
-Data warehouse
+Data warehouse - pulls together many different sources within an organisation for reporting & analysis
+Typically used for OLAP (online analytical processing) rather than real time transactional data
+
+Fastest data warehouse - 250 queries per hour
+Fully managed
+Provision clusters and nodes
+Column limit = 1600
+Encryption must be enabled
+Note: Data loss preventions services does not support Redshift
