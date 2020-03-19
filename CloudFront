@@ -1,0 +1,13 @@
+CloudFront
+
+A CDN - Content Delivery Network
+Caching because fetching data from origin (e.g. a S3 bucket in a different region from the end-user or HTTP/HTTPS) for every request is too slow
+Enables the origin storage to be kept private
+Security based on:
+- georestrictions
+- signed urls
+- signed cookies
+- origin access identity (OAI) - integrates with web application firewall (WAF) and AWS Shield (DDoS protection)
+
+[S3]<-->[CloudFront]<-->[users]
+
