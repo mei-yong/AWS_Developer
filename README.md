@@ -6,9 +6,10 @@ This repository contains all of my notes for day-to-day working with AWS
 * [RDS - Relational Database Service](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/RDS)
 * [EBS - Elastic Block Storage](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/EBS)
 * [EFS - Elastic File System](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/EFS)
-* [Redshift](url)
-* [DocumentDB](url)
-* [Neptune](url)
+* [DynamoDB](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/DynamoDB)
+* [Redshift](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Redshift)
+* [DocumentDB](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/DocumentDB)
+* [Neptune](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Neptune)
 
 ### Compute & ETL
 * [label](url)
