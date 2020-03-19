@@ -2,3 +2,8 @@ S3 - Simple Storage Service
 
 Object storage
 Max filesize = 5TB
+Vs GCP and Azure, has the higher number of availability zones
+Max IOP per instance = 65k (IOP = Input-output operations per second)
+Max throughput = 180 Mbps
+
+Alternative for older and less frequently accessed data is AWS Glacier
