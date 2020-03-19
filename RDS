@@ -1,3 +1,11 @@
 RDS - Relational Database Service
 
 Block storage
+MySQL, MSSQL, Oracle, PostGres
+AWS Aurora: AWS's MySQL-compatible db
+
+Setup
+1) Backups
+2) Logs
+3) Access settings
+
