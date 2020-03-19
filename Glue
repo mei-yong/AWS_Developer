@@ -1,0 +1,14 @@
+Glue
+
+Fully managed, serverless
+
+Glue Data Catalog
+Repository of metadata
+
+Glue ETL
+Schedule and perform ETL jobs
+
+1) Build data catalog
+2) Generate and edit transformations
+3) Schedule and run jobs
+
