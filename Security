@@ -1,0 +1,44 @@
+Security
+
+Responsibility split between AWS and users depends on the component
+
+[User side]
+
+User data
+-------------------RDS
+Application
+Guest OS
+-------------------EC2
+Hypervisor
+Network
+Physical
+
+[AWS side]
+
+---------------------------------------------------------
+
+Identiy and Access Management
+IAM User - person that interacts with AWS
+Group - collection of users with identical permissions
+Role - temporary privileges that an entity can assume
+
+Root User
+Account root user has access to ALL AWS services
+Should delete the root user access keys
+Create an IAM user
+Grant admin access
+Use IAM access to interact with AWS
+Enable multi-factor authentication for the super IAM user
+
+---------------------------------------------------------
+
+AWS Inspector
+Assesses apps for vulnerabilities
+Reports findings and gives recommendations
+
+---------------------------------------------------------
+
+AWS Shield
+Protection from DDoS attacks
+Has Standard & Enhanced packages
+
