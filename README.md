@@ -15,6 +15,7 @@ This repository contains all of my notes for day-to-day working with AWS
 ### Compute & ETL
 * [EC2 - Elastic Compute Cloud](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/EC2)
 * [EMR - Elastic MapReduce](https://github.com/mei-yong/AWS_Developer/blob/master/EMR)
+* [Kinesis](https://github.com/mei-yong/AWS_Developer/blob/master/Kinesis)
 * [Lambda](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Lambda)
 
 ### Other
