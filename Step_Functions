@@ -2,6 +2,7 @@
 Step Functions aka State Machines
 
 Serverless solution that's good for orchestrating lambdas
+Note: you can spin up many step function instances in parallel, much like spinning up lambdas
 
 Has different "states" that determine what actions or lambdas are triggered
 https://docs.aws.amazon.com/step-functions/latest/dg/concepts-states.html
