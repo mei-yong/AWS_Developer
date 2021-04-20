@@ -17,6 +17,7 @@ This repository contains all of my notes for day-to-day working with AWS
 * [EMR - Elastic MapReduce](https://github.com/mei-yong/AWS_Developer/blob/master/EMR)
 * [Kinesis](https://github.com/mei-yong/AWS_Developer/blob/master/Kinesis)
 * [Lambda](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Lambda)
+* [Step Functions](https://github.com/mei-yong/AWS_Developer/blob/master/Step_Functions)
 
 ### Other
 * [API_Gateway](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/API_Gateway)
@@ -27,6 +28,7 @@ This repository contains all of my notes for day-to-day working with AWS
 * [Direct_Connect](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Direct_Connect)
 * [Elastic_Beanstalk](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Elastic_Beanstalk)
 * [ELB - Elastic Load Balancer](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/ELB)
+* [Parameter Store](https://github.com/mei-yong/AWS_Developer/blob/master/Parameter_Store)
 * [Pricing](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Pricing)
 * [Quicksight](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Quicksight)
 * [Security](https://raw.githubusercontent.com/mei-yong/AWS_Data/master/Security)
