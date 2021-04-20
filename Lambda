@@ -7,3 +7,12 @@ Triggered by AWS services or API Gateway
 Max execution time per request = 900 seconds
 Concurrent execution = 1000 parallel executions
 No maximum number of functions
+
+When developing in console, give it a test event (must be a JSON) to test execution
+Note: if the lambda returns something, that something must be a JSON
+
+You can export the whole lambda as a zip (which would include all the code files and any package dependencies) and upload the zip to some other lambda
+If you're going to use particular packages quite often, it's worth making a new layer and having all your lambdas link to and call on the functions/pacakges in that layer
+Note: a lambda layer is basically some code that sits somewhere common/shared that many lambdas can access and import from
+https://docs.aws.amazon.com/lambda/latest/dg/configuration-layers.html
+
