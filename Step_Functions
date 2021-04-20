@@ -1,0 +1,15 @@
+
+Step Functions aka State Machines
+
+Serverless solution that's good for orchestrating lambdas
+
+Has different "states" that determine what actions or lambdas are triggered
+https://docs.aws.amazon.com/step-functions/latest/dg/concepts-states.html
+* Pass - take in data and output data that doesn't require transformations
+* Choice - the next step taken depends on the inputs into the state
+* Task - invoke a lambda
+* Wait - wait x seconds
+
+The code is proprietary AWS and looks like a JSON config
+AWS console will automatically make a pretty tree diagram based on your JSON-y code
+You can view the tree diagram and see logs as the step function runs. Note: the logs aren't in CloudWatch
