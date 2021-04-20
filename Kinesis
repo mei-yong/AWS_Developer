@@ -1,0 +1,25 @@
+
+Kinesis
+
+Streaming
+Real-time, fully managed, scalable
+
+Kinesis Firehose
+* transform & load streaming data
+* load into Kinesis Analytics, Elasticsearch, Redshift, S3
+
+Kinesis Analytics
+* process and analyse streaming data with SQL
+* recognises standard data formats, auto-parses data, recommends a schema
+
+Kinesis Streams
+* build custom apps that process and analyse data
+* collect log data from servers, desktops, mobiles, etc
+* server-side encryption & AWS KMS master keys
+
+Use Cases
+Netflix - monitors communications between applications
+
+
+Example Architecture
+[Website clicks] -> [Kinesis Firehose] -> [Kinesis Analytics] -> [Kinesis Firehose] -> [Redshift]
