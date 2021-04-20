@@ -1,6 +1,16 @@
 SNS - Simple Notification Service
 
 Messaging system
+Basically PubSub
 
 [Publisher]-->[Topic]-->[Message Filters]-->[Subscribers]
+
+Note: don't confuse this with SQS (Simple Queue Service). See StackOverflow answer below
+https://stackoverflow.com/questions/13681213/what-is-the-difference-between-amazon-sns-and-amazon-sqs
+
+You can create filters for your PubSub
+https://docs.aws.amazon.com/sns/latest/dg/sns-message-filtering.html
+On publisher side, the fields you want to filter on must be set as attributes, NOT as the message body
+On subscriber side, you can set up filtering to only receive messages with particular attributes
+
 
