@@ -1,4 +1,6 @@
 
+Elastic MapReduce
+
 Alternative to in-house cluster computing
 Based on Apache Hadoop
 Runs on EC2 instances and S3 buckets
