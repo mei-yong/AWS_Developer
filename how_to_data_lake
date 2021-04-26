@@ -1,0 +1,79 @@
+How to build a data lake house
+https://bringyourowndatalabs.workshop.aws/en/
+ 
+More Workshops
+https://workshops.aws/
+ 
+Optimising for Cost & Performance
+Partitioning
+Giving attributes to do WHERE clauses on
+Compression
+Split up splitable formats so that they can be processed in parallel.
+Better to have fewer larger files because:
+Fewer requests to S3
+Faster listing operations – e.g. select count(*)
+Less metadata
+Faster query
+
+
+Tech
+Glue – data catalog & ETL
+S3 – data lake storage
+Athena – query with SQL
+QuickSight – viz
+EMR + Hadoop – analytics (not covered)
+SageMaker – ML (not covered)
+CloudWatch – all logging is automatically done in CloudWatch
+ 
+Glue
+Data Catalog
+Hive
+Crawls data for discovery – file type, schema, partitions – can be scheduled so you don’t crawl every single time new data comes in
+Connected with S3, RDS, Redshift, JDBC, DynamoDB
+Versioning
+Job Authoring – Spark (python scala)
+Auto-generates ETL code that you can then edit
+Basic ETL drag and drop that then generates code: Remove, add columns, data type formats
+Job Execution
+Serverless spins up Spark nodes
+Build Workflow by dragging and dropping triggers and jobs/crawlers
+Scheduling, event-based/on-demand (lambda trigger), monitoring, alerting
+Bookmarks files that were already processed so doesn’t double process if the same file comes in twice
+ 
+Data Lake Formation
+A way to automate some of the manual stuff around creating a data lake – e.g. IAM access and basic ingestion
+Uses blueprints which covers Glue data catalog – pretty data flow diagram
+ 
+Athena
+Serverless
+Pay per query
+ANSI SQL – uses Presto
+$5 per TB scanned from S3
+DDL Queries and failed queries free – Hive backend
+Federated queries – can query all kinds including relational, non-relational data
+Nested schema
+SageMaker endpoint support
+Memory spill to disk (for really memory intensive queries)
+ 
+What data types can Athena read?
+https://docs.aws.amazon.com/athena/latest/ug/ctas-examples.html#ctas-example-format
+ 
+How can you schedule Athena queries?
+https://aws.amazon.com/premiumsupport/knowledge-center/schedule-query-athena/
+ 
+Reasons for using Parquet over other formats
+https://stackoverflow.com/questions/36822224/what-are-the-pros-and-cons-of-parquet-format-compared-to-other-formats
+ 
+ 
+QuickSight
+https://docs.aws.amazon.com/quicksight/latest/user/working-with-analyses.html
+Viz
+SPICE – super-fast calculation engine
+ 
+Supported data sources:
+https://docs.aws.amazon.com/quicksight/latest/user/supported-data-sources.html
+ 
+Pricing:
+https://aws.amazon.com/quicksight/pricing/
+ 
+ 
