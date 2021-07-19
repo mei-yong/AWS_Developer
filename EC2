@@ -2,6 +2,28 @@ EC2 - Elastic Compute Cloud
 
 Virtual machine instances
 
-1) Pick OS
+1) Pick OS - windows or linux
 2) Pick hardware
 3) Specify security and access
+
+Host machines have hypervisors that allocate the physical infrastructure to EC2 instances.
+Multitenancy: sharing underlying hardware between VMs
+
+Vertical scaling: increase/decrease the size of an instance whenever
+
+CaaS: Compute As A Service
+
+
+EC2 Types:
+* General purpose - balanced compute, memory, networking - web/app servers, code repo, small/medium dbs,
+* Compute optimised - gaming servers, high performance computing (HPC), scientific modelling
+* Memory optimised - work that requires lots of data to be preloaded from storage to memory
+* Accelerated computing - floating point number calculations, graphics processing, data pattern matching, game/app streaming
+* Storage optimised - distributed file systems, data warehousing apps, high frequency online transaction processing (OLTP) systems
+
+Pricing
+* On-demand - not recommended for workloads 1+ years
+* Savings plans - up to 72% savings - 1 or 3 year term
+* Reserved instances - up to 75% discount - 1 or 3 year term - upfront, partial, not upfront
+* Spot instances - AWS gives 2 minute warning that they'll take back the instance - up to 90% cost saving
+* Dedicated hosts - usually for compliance requirements - most expensive
